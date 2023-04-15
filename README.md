@@ -5,10 +5,10 @@
 </p>
 
 
-- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
+- 🔭 Upcoming Consultant Trainee @ Sirius Computer Solutions
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@kamal](https://twitter.com/athulcajay) on Twitter
+- 💬 Ask me about **MERN, CPP and Python**
+- 📫 How to reach me: [@kamal29](https://twitter.com/athulcajay) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
