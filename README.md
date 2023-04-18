@@ -1,10 +1,4 @@
 <h2 align="center">👋 Hello! I'm Kamal.</h2>
-<p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
-</p>
-
-
 - 🔭 Upcoming Consultant Trainee @ Sirius Computer Solutions
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **MERN, CPP and Python**
