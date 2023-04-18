@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **MERN, CPP and Python**
 - 📫 How to reach me: [@kamal29](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
 ## नमस्ते (Namaste), I am [KAMAL]
