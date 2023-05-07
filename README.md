@@ -51,4 +51,4 @@
 ![Snake animation](https://github.com/lord-benjamin/lord-benjamin/blob/output/github-contribution-grid-snake.svg)
 
 ### 👀 Profile Views
-![ProfileCount](https://visitcount.itsvg.in/api?id=kamal2929&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![ProfileCount](https://visitcount.itsvg.in/api?id=kamal2929&label=Profile%20Views&color=0&icon=5&pretty=false)
